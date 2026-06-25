@@ -18,7 +18,8 @@ params = {
     "retmax": 10,
     "api_key": api_key,
     "email": email,
-    "retmode": "json"
+    "retmode": "json",
+    "sort": "relevance"
 }
 
 base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"

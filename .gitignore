@@ -9,3 +9,4 @@ build/
 *.log
 .DS_Store
 part2_gemini/pdfs/
+~results.xlsx
