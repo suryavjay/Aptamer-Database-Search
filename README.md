@@ -56,7 +56,10 @@ Manual reading of all three papers to extract the same fields, followed by a sys
 - Add a `modifications` field for chemically modified aptamers
 - Define ambiguous field names explicitly in the prompt
 
-### Part 4 — Not Started
+### Streamlit App
+An app of a functional search of this data can be found at this link:
+
+https://aptamersearch.streamlit.app/
 
 ## Setup
 
